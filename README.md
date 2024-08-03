@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yasith Ransika Karunanayake</h1>
-<h3 align="center">Trinee System and Security Engineer</h3>
+<h3 align="center"> System and Security Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/MicrosoftCloud-microsoft-certification-certified-qjY1UPzyE2mER9gNbB">
 
 - 🔭 I’m currently working on **Microsoft Intune project**
